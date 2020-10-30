@@ -1,3 +1,2 @@
-# Flutter
-Splash Screen + Row and Column
-Pemenuhan Tugas kuliah Flutter dan dart matkul Antar Muka Komputer, AKMET x ITB
+//kresna andika A - Test 1
+/assignment row and column with splash screen
