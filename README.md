@@ -1,2 +1,1 @@
-//kresna andika A - Test 1
-/assignment row and column with splash screen
+Row and column Splash Screen for Dart
